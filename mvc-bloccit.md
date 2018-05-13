@@ -1,6 +1,6 @@
 # For each question below, answer which part of MCV should be responsible for it:
 
-* model-brain of the app, data related logic, interaction with database(CRUD), communicates with controller, in some frameworks updates the view directly. 
+* model-brain of the app, data related logic, interaction with (CRUD), communicates with controller, in some frameworks updates the view directly. 
 
 *view-the end user UI and usually consists of HTML/CSS. Communicates with controller and can be passed dynamic values from the controller. Can be as simple as barebones of HTML/CSS or dynamic JS.
 
